@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Checkpoints
+.ipynb_checkpoints
+
+# Data
+cassava-leaf-disease-classification/
+debug.log
